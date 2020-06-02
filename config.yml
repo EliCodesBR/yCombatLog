@@ -1,0 +1,26 @@
+Mensagens:
+  #Configure as mensagens;
+  Entrou_em_comabate: '&4@player &centrou em combate com você, então, não saia do servidor.'
+  Provocou_o_combate: '&cVocê entrou em combate com &4@player&c, então, não saia do servidor.'
+  Batalha_finalizada: '&eVocê não &aestá mais em combate, você já pode deslogar.'
+  Broad_cast: '&6@player &edeslogou em combate, se deu mal!'
+  Deny_Cmd: '&aEnquanto você estiver em combate, você não pode executar este comando.'
+  Deny_EnderPearl: '&eVocê entrou em combate, proibido teleportar com ender-pearl!'
+  
+#Configure a action bar.
+Action_Bar:
+  In_combat: '&cVocê está em combate &4(@tempo segundos).'
+  
+#Actions = ações;
+Actions:
+  Block_Chat: true
+  Block_EnderPearl: true
+
+#Defina o tempo de combate;
+#em segundos;
+Combat_time: 10 #segundos.
+
+#Não use barra ( / );
+Allowed_Commands:
+- '.'
+- 'g'

@@ -1,0 +1,7 @@
+name: yCombatLog
+version: 1.0
+main: net.elicodes.combatlog.Main
+author: EliCodes
+description: Um plugin de combatlog com action bar.
+commands:
+  combatlog:
